@@ -1,5 +1,6 @@
 # Introduction
 > Note: This guide is not complete *(as of 2023-02-08)*!
+
 This guide is intended to provide someone with decent knowledge of JS with the
 information they need to begin making scripts for the OWOT client. If you
 don't already know JS, you may try to follow along, but I'd recommend getting
