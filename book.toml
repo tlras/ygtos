@@ -1,0 +1,9 @@
+[book]
+authors = ["tlras"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Yagton's Guide to OWOT Scripting"
+
+[output.html]
+git-repository-url = "https://github.com/tlras/ygtos"
