@@ -5,5 +5,8 @@ multilingual = false
 src = "src"
 title = "Yagton's Guide to OWOT Scripting"
 
+[build]
+build-dir = "docs"
+
 [output.html]
 git-repository-url = "https://github.com/tlras/ygtos"
